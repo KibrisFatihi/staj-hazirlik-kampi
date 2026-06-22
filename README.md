@@ -1,2 +1,6 @@
 # staj-hazirlik-kampi
-"Bu satırı Alp güncelledi."
+
+
+
+e
+"   2Bu satırı Berin3 değiştirdi."
